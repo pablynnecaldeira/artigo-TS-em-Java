@@ -27,8 +27,7 @@ cachorro.fazerSom(); // Saída: Rex faz um som!
 ```
 
 ## 👩‍💻Vamos nos conectar
-Curtiu esse artigo? Ele foi gerado por IA com revisão 100% humana, se quiser se conectar comigo para compartilharmos mais conhecimentos, me siga lá no Linkedin
-
+Curtiu esse artigo? Ele foi gerado por IA com revisão 100% humana, se quiser se conectar comigo para compartilharmos mais conhecimentos, me siga lá no (Linkedin)[https://www.linkedin.com/in/pablynne-caldeira/]
 
 
 📝 _Fontes de produção:_
